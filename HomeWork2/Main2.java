@@ -37,7 +37,6 @@ class Task {
                     minId = j;
                 }
             }
-            // замена
             int temp = array[i];
             array[i] = min;
             array[minId] = temp;
