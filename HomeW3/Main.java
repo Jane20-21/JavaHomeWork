@@ -1,4 +1,3 @@
-/*
 import java.util.Arrays;
 
 public class Main {
@@ -40,7 +39,6 @@ public class Main {
         System.out.println(Arrays.toString(result));
     }
 }
-*/
 
 /*
 Реализовать алгоритм сортировки слиянием
